@@ -82,9 +82,6 @@ We believe language AI should not leave any linguistic community behind. The **O
 
 Running any **OpenEuroLLM** model locally is easy!
 
-<div align="center">
-  <img src="./1.png" alt="Job Automation Overview" width="450" />
-</div>
 
 ### 1. Install Ollama
 Download and install Ollama from [ollama.com/download](https://ollama.com/download):
